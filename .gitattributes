@@ -1,0 +1,34 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Source code
+*.c text diff=cpp
+*.h text diff=cpp
+*.cpp text diff=cpp
+*.hpp text diff=cpp
+*.cmake text
+CMakeLists.txt text
+
+# Documentation
+*.md text diff=markdown
+*.txt text
+*.rst text
+
+# Binary files
+*.uf2 binary
+*.hex binary
+*.bin binary
+*.elf binary
+*.map binary
+*.jpg binary
+*.png binary
+*.gif binary
+*.pdf binary
+
+# Generated files
+*.o binary
+*.a binary
+*.so binary
+*.dylib binary
+*.dll binary
+*.exe binary

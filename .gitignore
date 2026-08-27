@@ -1,0 +1,87 @@
+# Build directories
+build/
+cmake-build-*/
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+
+# Pico SDK specific
+pico-sdk/
+*.elf
+*.hex
+*.uf2
+*.bin
+*.map
+*.dis
+*.lst
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+CMakeUserPresets.json
+*.cmake
+!CMakeLists.txt
+!pico_sdk_import.cmake
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Compiler output
+*.d
+*.dep
+*.gcda
+*.gcno
+*.gcov
+*.html
+*.css
+
+# Logs
+*.log
+*.tmp
+*.temp
+
+# Documentation
+docs/_build/
+*.pdf
+*.epub
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pico W specific
+cyw43_*.bin
+wifi_credentials.h
+config_local.h
+
+# Backup files
+*.bak
+*.old
+*.orig
+*.rej
+
+# OS specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# User specific settings
+*.local
+*.user
+*.userprefs

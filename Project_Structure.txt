@@ -1,0 +1,34 @@
+network_scanner/
+├── CMakeLists.txt
+├── pico_sdk_import.cmake
+├── src/
+│   ├── main.c
+│   ├── display/
+│   │   ├── display_driver.c
+│   │   └── display_driver.h
+│   ├── network/
+│   │   ├── wifi_manager.c
+│   │   ├── wifi_manager.h
+│   │   ├── network_scanner.c
+│   │   └── network_scanner.h
+│   ├── ui/
+│   │   ├── ui_framework.c
+│   │   ├── ui_framework.h
+│   │   ├── screens.c
+│   │   └── screens.h
+│   ├── peripherals/
+│   │   ├── joystick.c
+│   │   ├── joystick.h
+│   │   ├── touch.c
+│   │   └── touch.h
+│   ├── data/
+│   │   ├── device_db.c
+│   │   ├── device_db.h
+│   │   ├── mac_vendors.h
+│   │   └── config.h
+│   └── utils/
+│       ├── fonts.h
+│       └── icons.h
+├── assets/
+│   └── mac_vendors.txt
+└── README.md
