@@ -8,14 +8,14 @@ A complete network scanning application for the Raspberry Pi Pico 2 W with Geeek
 
 ## Features
 
-- 📶 **Wi-Fi Connection**: Connect to any WPA2 network
-- 🔍 **Network Scanning**: Discover all active devices on your network
-- 🏷️ **Device Identification**: MAC address, vendor, hostname, and device type
-- 🎮 **Interactive UI**: Touch screen and joystick navigation
-- 💾 **Device Database**: Persistent storage for known devices
-- 📊 **Real-time Status**: Online/offline monitoring with latency
-- 🔒 **Security Alerts**: Detect unknown or suspicious devices
-- ⚡ **Optimized**: Fits in 520KB RAM with partial framebuffer
+- **Wi-Fi Connection**: Connect to any WPA2 network
+- **Network Scanning**: Discover all active devices on your network
+- **Device Identification**: MAC address, vendor, hostname, and device type
+- **Interactive UI**: Touch screen and joystick navigation
+- **Device Database**: Persistent storage for known devices
+- **Real-time Status**: Online/offline monitoring with latency
+- **Security Alerts**: Detect unknown or suspicious devices
+- **Optimized**: Fits in 520KB RAM with partial framebuffer
 
 ## Hardware Requirements
 
