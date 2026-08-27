@@ -19,8 +19,8 @@ A complete network scanning application for the Raspberry Pi Pico 2 W with Geeek
 
 ## Hardware Requirements
 
-- [Raspberry Pi Pico 2 W](https://www.raspberrypi.com/products/raspberry-pi-pico-2-w/)
-- [GeeekPi GPIO Expansion Module with 3.5" Screen](https://www.geeekpi.com/)
+- [Raspberry Pi Pico 2 W](https://www.amazon.com/dp/B0DP54FWX1?ref_=cm_sw_r_cp_ud_dp_4GWJNTQP76B9V8JTRFSY)
+- [GeeekPi GPIO Expansion Module with 3.5" Screen](https://www.amazon.com/dp/B0C98G37PW?ref_=cm_sw_r_cp_ud_dp_F1AH9CFRJ55TW8M0YMQZ)
 - Micro USB cable for power/programming
 
 ## Pin Connections
